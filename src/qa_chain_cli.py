@@ -96,7 +96,7 @@ def main():
         except Exception as e:
             answer = f"[error] {e}"
 
-        print("\nMaheen:", textwrap.fill(answer, width=100))
+        print("\nAli:", textwrap.fill(answer, width=100))
         print()
 
 if __name__ == "__main__":
